@@ -1,0 +1,47 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/ahmedelbagory/Downloads/DeployRandomTokens/contracts/Greeter.sol": {
+      "lastModificationDate": 1642184251683,
+      "contentHash": "c273fe5c37a80fee8e953848fa92a47e",
+      "sourceName": "contracts/Greeter.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.0"
+      ],
+      "artifacts": [
+        "Context",
+        "ERC20",
+        "ERC20Capped",
+        "ERC20Mintable",
+        "IERC20",
+        "Ownable",
+        "SafeDogTestToken",
+        "SafeMath"
+      ]
+    }
+  }
+}
